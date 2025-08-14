@@ -49,3 +49,6 @@ out/
 .serverless/
 .vercel/
 .netlify/
+
+# Project subfolder to ignore
+codecademy-ecommerce-rest-api-master/
