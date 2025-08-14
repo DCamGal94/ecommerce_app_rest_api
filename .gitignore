@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build output
+build/
+dist/
+coverage/
+.nyc_output/
+
+# Caches
+.eslintcache
+.parcel-cache/
+.vite/
+.cache/
+
+# OS
+.DS_Store
+
+# Editors/IDEs
+.vscode/
+.idea/
+
+# TypeScript
+*.tsbuildinfo
+
+# Framework outputs (safe to ignore if not used)
+.next/
+.nuxt/
+out/
+.svelte-kit/
+.serverless/
+.vercel/
+.netlify/
